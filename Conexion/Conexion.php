@@ -12,7 +12,7 @@ class Database{
          $opciones = [
            PDO::ATTR_ERRMODE => PDO:: ERRMODE_EXCEPTION, 
            PDO::ATTR_EMULATE_PREPARES => false
-         ];
+         ]; 
          $pdo = new PDO($conexion, $this->username, $this->password, $opciones); 
          return $pdo;
 
