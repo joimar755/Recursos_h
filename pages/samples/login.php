@@ -1,5 +1,10 @@
 <?php
-  include '../../Conexion/Conexion.php';
+  require '../../Conexion/Conexion.php'; 
+  
+  $db = new Database(); 
+  $db->Conectar();
+   
+  
 ?>
 
 <!DOCTYPE html>
