@@ -451,7 +451,7 @@
             </a>
             <div class="collapse" id="auth">
               <ul class="nav flex-column sub-menu">
-                <li class="nav-item"> <a class="nav-link" href="pages/samples/login.php"> Login </a></li>
+                <li class="nav-item"> <a class="nav-link" href="pages/samples/Registro_Usu.php"> Login </a></li>
               </ul>
             </div>
           </li>
