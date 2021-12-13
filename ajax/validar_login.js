@@ -1,4 +1,4 @@
-$(document).ready(function () {
+/*  $(document).ready(function () {
      $('#form').submit(function (e) { 
          
          const login  = {
@@ -11,7 +11,8 @@ $(document).ready(function () {
          $('#form').trigger('reset');
          
          e.preventDefault();
-     }); 
+     });  
+     
  
-}); 
-
+});  
+*/

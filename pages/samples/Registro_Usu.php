@@ -25,7 +25,7 @@
 <body> 
 
 
-  <div class="container-scroller">
+  <div class="container-scroller"> 
     <div class="container-fluid page-body-wrapper full-page-wrapper">
       <div class="content-wrapper d-flex align-items-center auth px-0">
         <div class="row w-100 mx-0">
@@ -34,8 +34,8 @@
               <div class="brand-logo">
                 <img src="../../images/logo.svg" alt="logo">
               </div>
-              <h4>¡Hola! empecemos</h4>
-              <h6 class="fw-light">Resgitrarse </h6>
+              <h4>¡Hola! empecemos</h4> 
+              <h6 class="fw-light">Resgitrarse </h6> 
               <form class="pt-3" id="form" method="POST" action="../../Controlador/Registro.php" autocapitalize="off" >
                 <div class="form-group">
                   <input type="text" class="form-control form-control-lg" id="Primer_Nombre" name="P_Nombre" placeholder="Primer nombre" required>
@@ -85,7 +85,7 @@
                   </button>
                 </div>
                 <div class="text-center mt-4 fw-light">
-                  Don't have an account? <a href="register.html" class="text-primary">Create</a>
+                  ¿No tienes una cuenta? <a href="Registro.php" class="text-primary">Crear</a>
                 </div>
               </form>
             </div>
